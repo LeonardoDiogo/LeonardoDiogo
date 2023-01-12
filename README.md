@@ -1,4 +1,4 @@
-## Olá 👋, sou o Leo  
+## Olá 👋, sou o Leo## Olá 👋, sou o Leo  
   
 
 <a href="https://linkedin.com/in/leonardodiogoprog" target="_blank">
@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Sou um desenvolvedor que a paixao pela tecnologia me fez criar amor a ser Full-Stack. Ser um full-stack me permite não apenas desenvolver aplicativos e sites voltados para o cliente, mas também desenvolvê-los com suporte de back-end de ponta.
+Sou um desenvolvedor que a paixao e o fascínio pela tecnologia me fez ser Full-Stack. Ser um full-stack me permite não apenas desenvolver aplicativos e sites voltados para o cliente, mas também desenvolvê-los com suporte de back-end de ponta.
 
 Sou especialista em construir back-ends robustos que fazem todo o trabalho pesado para seu aplicativo ou site. Adoro projetar sistemas leves, mas poderosos, distribuídos, mas sincronizados, bonitos, mas eficazes. Também escrevo frequentemente sobre o mundo por trás da tela, que envolve projetos de sistemas, bancos de dados, segurança, servidores, otimização e também tecnologias promissoras como Blockchain e PWAs.  
   
@@ -31,7 +31,7 @@ Sou especialista em construir back-ends robustos que fazem todo o trabalho pesad
 
 - 🌱 Atualmente estou aperfeiçoando o meu ingles e meu espanhol   
 
-- ❤️ Apaixonado por essa profissão 
+- ❤️ Apaixonado por essa profissão
 
 
 </td><td valign="top" width="50%">
