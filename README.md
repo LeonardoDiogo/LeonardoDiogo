@@ -1,4 +1,4 @@
-## Olá 👋, sou o Leo## Olá 👋, sou o Leo  
+## Olá 👋, sou o Leo
   
 
 <a href="https://linkedin.com/in/leonardodiogoprog" target="_blank">
