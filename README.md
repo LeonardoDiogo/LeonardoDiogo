@@ -55,10 +55,6 @@ Sou um estudante árduo de tecnologia sempre em busca de novos projetos e de des
 
 </td><td valign="top" width="33%">
 
-</td></tr></table>  
-
-<br/>  
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/LeonardoDiogo" target="_blank">
