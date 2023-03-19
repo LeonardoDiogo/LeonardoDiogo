@@ -2,7 +2,7 @@
   
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
   
 
@@ -22,10 +22,8 @@ Sou um estudante árduo de tecnologia sempre em busca de novos projetos e de des
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -57,12 +55,9 @@ Sou um estudante árduo de tecnologia sempre em busca de novos projetos e de des
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -74,31 +69,9 @@ Sou um estudante árduo de tecnologia sempre em busca de novos projetos e de des
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LeonardoDiogo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/> 
