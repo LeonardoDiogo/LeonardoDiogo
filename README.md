@@ -1,4 +1,4 @@
-### i'am front-end developer
+### i'am Full-Stack developer
 
 <div display="block" >
     <a href="https://github.com/LeonardoDiogo">
@@ -12,7 +12,6 @@
 <div display="block" width=90% justify-content="flex-end" align-items="center">
     <img align-items="center" display=flex alt="js" height="30" width="40rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align-items="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="30" /></a>  
     <img align-items="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align-items="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align-items="center" alt="reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
